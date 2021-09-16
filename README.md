@@ -1,2 +1,2 @@
 # Test
-This is just a testing page
+This Project is just for testing
